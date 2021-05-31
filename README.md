@@ -24,3 +24,13 @@ Em "Variáveis do Sistemas", verifique se existe uma variável chamada JAVA_HOME
 Edite também a variável Path que está em "Variáveis do Sistema" e acrescente o caminho **%JAVA_HOME%\bin** 
 
 ![](https://github.com/brunomotadev/java/blob/main/assets/java4.jpg)
+
+
+
+Agora rode o comando: 
+
+```
+java -version
+```
+
+E se tudo estiver OK, o resultado será esse:
