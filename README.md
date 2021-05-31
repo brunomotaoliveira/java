@@ -34,3 +34,6 @@ java -version
 ```
 
 E se tudo estiver OK, o resultado será esse:
+
+
+![](https://github.com/brunomotadev/java/blob/main/assets/java5.jpg)
