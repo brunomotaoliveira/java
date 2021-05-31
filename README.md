@@ -11,11 +11,13 @@ Conhecimentos  e aprendizados em Java
 
 **Configuração do Ambiente**
 
-No Windows, precisamos configurar as variáveis de ambiente para que o Java fique sempre disponível. Para isso acesse: Configurações Avançadas do Sistemas > Aba "Avançado(Advanced)" > clique no botão "Variáveis de Ambiente(Environment Variables)"
+No Windows, precisamos configurar as variáveis de ambiente para que o Java fique sempre disponível. 
+
+- Para isso digite "env" no search do Windows 10>"Edit the System enviroment variables "  > Aba "Avançado(Advanced)" > clique no botão "Variáveis de Ambiente(Environment Variables)"
 
 ![](https://github.com/brunomotadev/java/blob/main/assets/java2.jpg)
 
-Em "Variáveis do Sistemas(System variables)", verifique se existe uma variável chamada JAVA_HOME. E se o valor dessa variável contém o caminho para a pasta do JDK.
+- Em "Variáveis do Sistemas(System variables)", verifique se existe uma variável chamada JAVA_HOME. E se o valor dessa variável contém o caminho para a pasta do JDK.
 
 ![](https://github.com/brunomotadev/java/blob/main/assets/java3.jpg)
 
